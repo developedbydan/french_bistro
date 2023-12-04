@@ -31,8 +31,14 @@
 .hero button{
     background-color: white;
     color: black;
+    height: 2.5rem;
+    border: none;
+    border-radius: 0.5rem;
     font-family: "Hammersmith One", sans-serif;
-    font-size: 1.1rem;
-    width: 150px;
+    font-size: 1.095rem;
+    width: 9rem;
 
 }
+
+
+

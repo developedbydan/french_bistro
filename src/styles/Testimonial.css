@@ -6,6 +6,7 @@
     display: grid;
     grid-template-columns: 1fr;
     padding: 4rem 1.8rem 1rem 1.8rem;
+    color: white;
 }
 
 .testimonials h2{
@@ -16,6 +17,7 @@
 }
 
 .testimonial-wrapper h3{
+    font-family: 'Solway', serif;
     margin-bottom: 0.8rem;
 }
 
